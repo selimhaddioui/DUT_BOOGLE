@@ -13,12 +13,12 @@ La note attribué à notre binôme pour ce projet a été de 20/20.
 Ce projet a été réalisé avec Mahir AKHAYAR et Sélim HADDIOUI en 1e année de DUT Informatique.  
   
 Mahir AKHAYAR -  
-*Linkedin : https://fr.linkedin.com/in/mahir-akhayar-26a058226  
-*Github : https://github.com/mahir-jpg
+* Linkedin : https://fr.linkedin.com/in/mahir-akhayar-26a058226  
+* Github : https://github.com/mahir-jpg  
   
 Sélim HADDIOUI -  
-*Linkedin : https://fr.linkedin.com/in/selim-haddioui  
-*Github : https://github.com/selimhaddioui
+* Linkedin : https://fr.linkedin.com/in/selim-haddioui  
+* Github : https://github.com/selimhaddioui  
   
 ## Utilisation  
   
