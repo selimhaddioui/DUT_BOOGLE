@@ -2,15 +2,11 @@
   
 ## À propos du projet  
   
-Ce programme a été réalisé dans le cadre d'un projet académique à l'IUT Paris Descartes.  
-L'objectif est d'obtenir une compréhension avancée concernant les structures de données.  
-Ce programme reprend le concept du jeu du BOOGLE.  
-Le rapport ainsi que l'énoncé sont disponibles dans le "BOOGLE/Projet"  
-La note attribué à notre binôme pour ce projet a été de 20/20.  
+Ce programme a été développé dans le cadre d'un projet académique à l'IUT Paris Descartes, avec pour objectif d'acquérir une compréhension approfondie des structures de données. Il s'inspire du concept du jeu BOOGLE. Le rapport ainsi que l'énoncé peuvent être consultés dans le répertoire "BOOGLE/Projet". La note attribuée à notre binôme pour ce projet a été de 20/20.  
   
 ## Contributeur  
   
-Ce projet a été réalisé avec Mahir AKHAYAR et Sélim HADDIOUI en 1e année de DUT Informatique.  
+Ce projet a été réalisé par Mahir AKHAYAR et Sélim HADDIOUI en 1e année de DUT Informatique.  
   
 Mahir AKHAYAR -  
 * Linkedin : https://fr.linkedin.com/in/mahir-akhayar-26a058226  
@@ -26,6 +22,6 @@ Pour une utilisation rapide un exécutable est disponible dans le fichier BOOGLE
 
 ## Remarque  
 
-Les fichiers "jouer.cpp" ainsi que "jouer.h" ont été crée bien après l'ensemble du projet.  
+Les fichiers "jouer.cpp" ainsi que "jouer.h" n'ont été crée que bien après l'ensemble du projet.  
 L'objectif de ces deux fichiers est d'apporter une utilisation simple et rapide du programme afin de démontrer l'aspect fonctionnel de celui-ci.  
 Consulter les autres fichiers serait donc bien plus pertinent pour obtenir un aperçu de notre compréhension concernant les structures de données.
